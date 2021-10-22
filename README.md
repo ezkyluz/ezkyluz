@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on Database Refactoring and Code Refactor
 - 📫 How to reach me: zolymo@gmail.com
+- 🍁 Preparing Git-Mastery course
 
 <!---
 ezkyluz/ezkyluz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
